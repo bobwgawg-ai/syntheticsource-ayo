@@ -105,7 +105,7 @@
 
 	local themes = {
 		preset = {
-			["outline"] = hex("#556963"), -- 
+			["outline"] = hex("#0A0A0A"), -- 
 			["inline"] = hex("#2D2D2D"), --
 			["accent"] = hex("#556963"), --
 			["high_contrast"] = hex("#141414"),
